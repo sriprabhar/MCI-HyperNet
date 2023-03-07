@@ -1,5 +1,7 @@
 # MCI-HyperNet - Adaptive weight learning for MRI reconstruction
 ### *A single network that uses dynamic weight prediction for multiple acquisition context-based MRI Reconstruction* 
+> [MCI-HyperNet: A Multiple Contextual Information-based Adaptive Weight Learning Network for Controllable Image Reconstruction] 
+![MCI-HyperNet Architecture](src/images/architecture.png)
 
 ## Dependencies
 #### Packages
